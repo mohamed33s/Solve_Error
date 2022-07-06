@@ -1,0 +1,52 @@
+
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+body {
+  background-color: #e6e3be !important;
+}
+
+.navStyle {
+  color: rgb(236, 201, 6);
+}
+.navStyle:hover {
+  color: white;
+}
+.footerStyle {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: black;
+  text-align: center;
+}
+.carousel-item img {
+  height: 590px;
+}
+
+.buttonImg {
+  color: rgb(236, 201, 6) !important;
+}
+.buttonImg:hover {
+  color: white !important;
+}
+
+.cardStyle {
+  margin: auto;
+  margin-top: 50px;
+  width: 50%;
+  width: 600px !important;
+  background-color: rgba(234, 208, 62, 0.725) !important;
+}
+
+.cardImg {
+  height: 400px;
+}
+
+.cardAbout{
+  background-color: rgba(234, 208, 62, 0.725) !important;
+
+}
